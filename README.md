@@ -1,5 +1,6 @@
 Hello, I'm Lindsay! I'm an ex pre-med student who's now diving into the world of computer science. I'm taking baby steps, but
 very excited to be learning and discovering something every day <3
+Most of my work is on a private academic Github. When I am finished with projects, I move them here!
 
 - 👀  I’m interested in game design & software engineering
 - 🧠  I'm currently learning how to create a personal website
